@@ -1,26 +1,24 @@
-﻿# 📚 Estudos Java
+﻿🚀 Projetos
 
-Repositório criado para registrar minha evolução em Java.
-
----
-
-## 🚀 Projetos
-
-### 📌 Cadastro de Salário
+📌 Cadastro de Salário  
 Programa que:
 
 - Lê nome, idade e salário mensal  
 - Calcula o salário anual  
 - Exibe os dados no console  
 
-### 📌 Par ou Ímpar
+---
+
+📌 Par ou Ímpar  
 Programa que:
 
 - Lê um número  
 - Verifica se é par ou ímpar  
 - Exibe o resultado no console  
 
-### 📌 Maior ou Menor
+---
+
+📌 Maior ou Menor  
 Programa que:
 
 - Lê dois números  
@@ -29,7 +27,17 @@ Programa que:
 
 ---
 
-## 🛠 Tecnologias
+📌 Par ou Ímpar + Positivo ou Negativo  
+Programa que:
+
+- Lê um número  
+- Verifica se é par ou ímpar  
+- Verifica se é positivo, negativo ou zero  
+- Exibe o resultado no console  
+
+---
+
+🛠 Tecnologias
 
 - Java  
 - VS Code  
