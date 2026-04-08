@@ -1,6 +1,10 @@
-﻿🚀 Projetos
+# 📚 Estudos Java
+--- 
+ 🚀 Projetos
+ ---
 
 📌 Cadastro de Salário  
+---
 Programa que:
 
 - Lê nome, idade e salário mensal  
@@ -10,6 +14,7 @@ Programa que:
 ---
 
 📌 Par ou Ímpar  
+---
 Programa que:
 
 - Lê um número  
@@ -19,6 +24,7 @@ Programa que:
 ---
 
 📌 Maior ou Menor  
+---
 Programa que:
 
 - Lê dois números  
@@ -28,6 +34,7 @@ Programa que:
 ---
 
 📌 Par ou Ímpar + Positivo ou Negativo  
+---
 Programa que:
 
 - Lê um número  
@@ -38,6 +45,7 @@ Programa que:
 ---
 
 🛠 Tecnologias
+---
 
 - Java  
 - VS Code  
