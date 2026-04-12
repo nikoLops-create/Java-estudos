@@ -13,12 +13,12 @@ public class MaiorOuMenor {
         int numero2 = input.nextInt();
 
         if(numero1 > numero2) {
-            System.out.println("Maior:" + numero1);
+            System.out.println("O maior numero é:" + numero1);
 
         } else if (numero2 > numero1) {
-            System.out.println("Maior: " + numero2);
+            System.out.println("O maior numero é: " + numero2);
         } else {
-            System.out.println("Os números são iguais");
+            System.out.println("Os números são iguais!");
 
         }
 
