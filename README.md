@@ -52,8 +52,9 @@ Par ou Ímpar
 Positivo ou Negativo
 Maior ou Menor
 Utiliza estrutura condicional if / else
----
+
 📌 Menu de Opções com Switch
+---
 
 Programa que:
 
@@ -64,14 +65,14 @@ Positivo ou Negativo
 Maior ou Menor
 Utiliza estrutura switch
 Trata opções inválidas
----
+
 🧠 Conceitos praticados
 Estruturas condicionais (if / else e switch)
 Operadores lógicos e aritméticos
 Entrada de dados com Scanner
 Organização de código
 Lógica de programação
----
+
 
 🛠 Tecnologias
 Java
