@@ -76,8 +76,11 @@ Lógica de programação
 
 🛠 Tecnologias
 Java
+
 VS Code
+
 Git e GitHub
+
 
 📈 Objetivo
 ---
