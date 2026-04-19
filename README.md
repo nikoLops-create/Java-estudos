@@ -6,6 +6,8 @@ Repositório criado para registrar minha evolução em Java, com foco em lógica
 ---
 
 🚀 Projetos
+---
+
 📌 Cadastro de Salário
 ---
 
