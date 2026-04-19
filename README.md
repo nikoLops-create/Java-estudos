@@ -78,7 +78,8 @@ Lógica de programação
 Java
 VS Code
 Git e GitHub
----
+
 📈 Objetivo
+---
 
 Evoluir na programação e construir uma base sólida para desenvolvimento back-end.
