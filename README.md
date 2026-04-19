@@ -72,12 +72,13 @@ Operadores lógicos e aritméticos
 Entrada de dados com Scanner
 Organização de código
 Lógica de programação
-
+---
 
 🛠 Tecnologias
 Java
 VS Code
 Git e GitHub
+---
 📈 Objetivo
 
 Evoluir na programação e construir uma base sólida para desenvolvimento back-end.
